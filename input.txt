@@ -1,0 +1,9 @@
+Steps:8
+NumOfRobots:7
+BlueThunder Beta 6 5
+Terminator Sili 5 4
+Terminator Cili 2 4
+Madbot Kidd 3 8
+RoboCop Ali 6 4
+Madbot Gidd 3 4
+RoboCop Ziwi 8 9

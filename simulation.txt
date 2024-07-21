@@ -1,0 +1,283 @@
+Initial Battlefield:
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . C . . . . . 
+. . . . G . . . K . 
+. . . . . . . . . . 
+. . . . S . . . . . 
+. . . . A B . . . . 
+. . . . . . . . . . 
+. . . . . . . . . Z 
+. . . . . . . . . . 
+
+Step 1:
+
+B fired (7, 0), missed.
+
+S attact (6, 4), successfully killed A
+Ali , A has 2 lives left 
+Ali , A will be entered at ( 4 , 1 ) next turn
+
+
+C attact (3, 4), successfully killed G
+Gidd , G has 2 lives left 
+Gidd , G will be entered at ( 0 , 1 ) next turn
+
+
+K fired (3, 7), missed.
+
+Z did not find an enemy. New target is (8 , 9)
+Z moved to (8 , 9)
+Z fired (5, 6), missed.
+Z fired (3, 5), missed.
+Z fired (7, 4), missed.
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . C . . . K . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . S B . . . . 
+. . . . . . . . . . 
+. . . . . . . . . Z 
+. . . . . . . . . . 
+
+Step 2:
+
+B attact (6, 4), successfully killed S
+Sili , S has 2 lives left 
+Sili , S will be entered at ( 5 , 5 ) next turn
+
+
+C step  at (3,5).
+
+K fired (3, 7), missed.
+
+Z did not find an enemy. New target is (9 , 8)
+Z moved to (9 , 8)
+Z fired (6, 8), missed.
+Z fired (9, 5), missed.
+Z fired (4, 3), missed.
+
+A did not find an enemy. New target is (5 , 2)
+A moved to (5 , 2)
+A fired (6, 0), missed.
+A fired (6, 0), missed.
+A attact (0, 1), successfully killed G
+Gidd , G has 1 lives left 
+Gidd , G will be entered at ( 9 , 2 ) next turn
+
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . C . . K . 
+. . . . . . . . . . 
+. . A . . . . . . . 
+. . . . . B . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . Z . 
+
+Step 3:
+
+B fired (5, 0), missed.
+
+C step  at (2,5).
+
+K fired (4, 8), missed.
+
+Z did not find an enemy. New target is (9 , 9)
+Z moved to (9 , 9)
+Z fired (6, 3), missed.
+Z fired (4, 5), missed.
+Z fired (8, 0), missed.
+
+A did not find an enemy. New target is (4 , 2)
+A moved to (4 , 2)
+A fired (2, 1), missed.
+A fired (0, 0), missed.
+A fired (6, 2), missed.
+
+S attact (6, 5), successfully killed B
+Beta , B has 2left 
+Beta , B will be entered at ( 6 , 0 ) next turn
+
+
+G fired (8, 2), missed.
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . C . . . . 
+. . . . . . . . K . 
+. . A . . . . . . . 
+. . . . . . . . . . 
+. . . . . S . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . G . . . . . . Z 
+
+Step 4:
+
+C step  at (2,4).
+
+K fired (3, 7), missed.
+
+Z did not find an enemy. New target is (8 , 9)
+Z moved to (8 , 9)
+Z fired (8, 8), missed.
+Z fired (4, 5), missed.
+Z attact (6, 5), successfully killed S
+Sili , S has 1 lives left 
+Sili , S will be entered at ( 0 , 7 ) next turn
+
+
+A did not find an enemy. New target is (5 , 1)
+A moved to (5 , 1)
+A fired (4, 1), missed.
+A fired (0, 1), missed.
+A fired (8, 1), missed.
+
+G fired (9, 3), missed.
+
+B fired (5, 0), missed.
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . C . . . . . 
+. . . . . . . . K . 
+. . . . . . . . . . 
+. A . . . . . . . . 
+B . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . Z 
+. . G . . . . . . . 
+
+Step 5:
+
+C step  at (1,5).
+
+K fired (4, 9), missed.
+
+Z did not find an enemy. New target is (7 , 8)
+Z moved to (7 , 8)
+Z fired (5, 4), missed.
+Z fired (7, 2), missed.
+Z fired (8, 5), missed.
+
+A found C at (6 , 0)
+A fired (0, 0), missed.
+A fired (0, 1), missed.
+A fired (1, 1), missed.
+
+G fired (8, 1), missed.
+
+B fired (7, 0), missed.
+
+S step  at (1,7).
+. . . . . . . . . . 
+. . . . . C . S . . 
+. . . . . . . . . . 
+. . . . . . . . K . 
+. . . . . . . . . . 
+. A . . . . . . . . 
+B . . . . . . . . . 
+. . . . . . . . Z . 
+. . . . . . . . . . 
+. . G . . . . . . . 
+
+Step 6:
+
+C step  at (1,4).
+
+K fired (4, 9), missed.
+
+Z did not find an enemy. New target is (8 , 7)
+Z moved to (8 , 7)
+Z fired (7, 3), missed.
+Z fired (3, 3), missed.
+Z fired (4, 5), missed.
+
+A found C at (6 , 0)
+A fired (4, 1), missed.
+A fired (1, 1), missed.
+A fired (0, 0), missed.
+
+G fired (8, 2), missed.
+
+B fired (7, 0), missed.
+
+S step  at (0,7).
+. . . . . . . S . . 
+. . . . C . . . . . 
+. . . . . . . . . . 
+. . . . . . . . K . 
+. . . . . . . . . . 
+. A . . . . . . . . 
+B . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . Z . . 
+. . G . . . . . . . 
+
+Step 7:
+
+C step  at (0,3).
+
+K fired (3, 9), missed.
+
+Z did not find an enemy. New target is (9 , 8)
+Z moved to (9 , 8)
+Z fired (4, 5), missed.
+Z fired (6, 3), missed.
+Z fired (7, 7), missed.
+
+A found C at (6 , 0)
+A fired (3, 1), missed.
+A fired (2, 0), missed.
+A fired (8, 1), missed.
+
+G fired (9, 3), missed.
+
+B fired (6, 1), missed.
+
+S step  at (0,6).
+. . . C . . S . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . K . 
+. . . . . . . . . . 
+. A . . . . . . . . 
+B . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . G . . . . . Z . 
+
+Step 8:
+
+C step  at (1,2).
+
+K fired (3, 9), missed.
+
+Z did not find an enemy. New target is (8 , 9)
+Z moved to (8 , 9)
+Z fired (3, 9), missed.
+Z fired (7, 2), missed.
+Z fired (5, 4), missed.
+
+A found C at (6 , 0)
+A fired (0, 0), missed.
+A fired (0, 0), missed.
+A fired (9, 0), missed.
+
+G fired (8, 1), missed.
+
+B fired (7, 1), missed.
+
+S step  at (0,7).
+. . . . . . . S . . 
+. . C . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . K . 
+. . . . . . . . . . 
+. A . . . . . . . . 
+B . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . Z 
+. . G . . . . . . . 
